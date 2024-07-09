@@ -1,0 +1,97 @@
+[
+
+    {
+        "id": 1,
+        "category": "Free",
+        "name": "Fiction Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    },
+    {
+        "id": 2,
+        "category": "Music",
+        "name": "Music Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "$2.00",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    },
+    {
+        "id": 3,
+        "category": "Sci-Fi",
+        "name": "Sci-Fi Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "$5.00",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    },
+    {
+        "id": 4,
+        "category": "Food",
+        "name": "Food Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "$10.00",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    },
+    {
+        "id": 5,
+        "category": "Programming",
+        "name": "Coding Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "$20.00",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    },
+    {
+        "id": 6,
+        "category": "Free",
+        "name": "History Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "$0.0",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    },
+    {
+        "id": 7,
+        "category": "Free",
+        "name": "Story Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    },
+    {
+        "id": 8,
+        "category": "Free",
+        "name": "Spanish Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "$0.00",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    },
+    {
+        "id": 9,
+        "category": "Free",
+        "name": "Tech Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    },
+    {
+        "id": 10,
+        "category": "Business",
+        "name": "Business Book",
+        "title": "lorem ipsum dolor sit amet consectetur adip",
+        "price": "$10.00",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719952694~exp=1719956294~hmac=f5a8ef6ea1eaa477981436ee49a9c506f4cc636d1aa1add7c22cb9da0e78accb&w=740"
+
+    }
+
+
+
+
+]
