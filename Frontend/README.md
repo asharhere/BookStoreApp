@@ -41,7 +41,7 @@ Ensure you have the following installed on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/asharhre/Bookstore.git
+   git clone https://github.com/asharhre/BookstoreApp.git
    cd bookstore
    ```
 
